@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Hemant Kumar Srivastava from India<br><br>- 🔭 I’m working as Software Developer Intern<br>- 📚 I'm currently learning ASP .NET MVC<br>- ⚡ In my free time I Watch Anime's</p>
+<p align="left">I'm Hemant Kumar Srivastava from India<br><br>- 🔭 I’m working as Software Developer Intern<br>- 📚 I'm currently learning ASP .NET MVC<br>- ⚡ In my free time I Learn about new Technologies and Watch Anime's</p>
 
 ###
 
