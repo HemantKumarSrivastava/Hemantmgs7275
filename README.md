@@ -4,7 +4,7 @@
 
 ###
 <h1 align="center">Hi 👋, I'm Hemant Kumar Srivastava</h1>
-<h3 align="center">A passionate Web developer from India"A dedicated and innovative web developer hailing from the vibrant tech landscape of India."</h3>
+<h3 align="center">"A dedicated and innovative web developer hailing from the vibrant tech landscape of India."</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantmgs7275" alt="hemantmgs7275" /></a> </p>
 
