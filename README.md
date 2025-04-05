@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Hemant Kumar Srivastava</h1>
 <h3 align="center">"A dedicated and innovative web developer hailing from the vibrant tech landscape of India."</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantmgs7275" alt="hemantmgs7275" /></a> </p>
+<p align="left"> <a href="https://avatars.githubusercontent.com/u/110107494?v=4"><img src="https://github-profile-trophy.vercel.app/?username=hemantmgs7275" alt="hemantmgs7275" /></a> </p>
 
 - 🔭 I’m currently working on **Swiftly - Logistics App**
 
